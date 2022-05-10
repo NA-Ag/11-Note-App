@@ -1,0 +1,22 @@
+{
+  "name": "11-assignment-note-taker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NA-Ag/11-Assignment-Note-App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NA-Ag/11-Assignment-Note-App/issues"
+  },
+  "homepage": "https://github.com/NA-Ag/11-Assignment-Note-App#readme",
+  "description": ""
+}
