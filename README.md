@@ -11,7 +11,7 @@ An app that allows the user to create and save to do list items.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#questions)
+
 ## Installation
 To install necessary dependencies, follow the next steps and run these commands:
 ```bash
