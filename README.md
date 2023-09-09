@@ -1,4 +1,4 @@
-# 11-Assignment-Note-Taker
+# 11-Note-Taker
 Generates a web page with basic info of the interested party. 
 
 # Team Viewer
@@ -43,5 +43,5 @@ heroku open or alternatively for local check heroku local web.
 ```
 screenshot 1  ![](./images/11-screenshot-1.PNG)
 screenshot 2  ![](./images/11-screenshot-2.PNG)
-link to repository (https://github.com/NA-Ag/11-Assignment-Note-App)
+link to repository (https://github.com/NA-Ag/11-Note-App)
 link to heroku app (https://immense-refuge-01581.herokuapp.com/)
